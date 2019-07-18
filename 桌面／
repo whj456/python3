@@ -1,0 +1,4 @@
+python3 -m venv ~/nsd1902
+ source ~/nsd1902/bin/activate 
+python --version
+elk 官网:https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html
